@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+local_cache/
+runs/
+
+# modelos/pesos e arquivos grandes
+*.pt
+*.onnx
+*.pth
+*.zip
+*.mp4
+*.avi
+*.mkv
