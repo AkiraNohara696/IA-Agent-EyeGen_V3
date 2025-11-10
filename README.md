@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```bash
 export OPENAI_API_KEY="sua_chave" # opcional (Linux/macOS)
 setx OPENAI_API_KEY "sua_chave" # opcional (Windows)
-python -m assistive_nav.app
+python -m app.py
 ```
 
 
